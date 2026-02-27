@@ -1,0 +1,8 @@
+# Copia este archivo como terraform.tfvars y completa con tus valores reales
+# NUNCA subas terraform.tfvars al repositorio
+
+access_key = "tu-access-key-aqui"
+secret_key = "tu-secret-key-aqui"
+
+bucket_name = "tu-bucket-name-unico"
+lambda_function_name = "mi-funcion-lambda"
